@@ -30,7 +30,7 @@
 ### Frontend
 - React.js with TypeScript
 - Redux for state management
-- Material-UI components
+- Shadcn-UI components
 - Styled-components
 - Axios for API calls
 - React Router v6
@@ -43,20 +43,12 @@
 - Express-validator
 - Multer for file uploads
 
-### DevOps & Tools
-- Docker
-- CI/CD with GitHub Actions
-- AWS deployment
-- Jest for testing
-- ESLint & Prettier
-- Swagger for API documentation
-
 ## 📋 Prerequisites
 
 - Node.js (v16+)
 - MongoDB (v5+)
 - npm or yarn
-- Docker (optional)
+
 
 ## 🚀 Installation & Setup
 
