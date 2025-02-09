@@ -2,7 +2,6 @@
 
 > A powerful, full-stack job portal application connecting talent with opportunities.
 
-![Project Banner](project-banner.png)
 
 ## ✨ Features
 
